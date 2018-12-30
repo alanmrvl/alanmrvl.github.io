@@ -1,3 +1,9 @@
+---
+layout: post
+title: "New year, new IDE"
+date: 2018-12-29 16:30:00 -0500
+categories: update
+---
 As part of the new year, I will be moving toward modifying my development workflow. I have had an iPad Pro sitting around for the last year, and I only recently got a keyboard for it. Though the iPad itself doesn't have a great native experience when it comes to coding professionally, I'm taking this opportunity to set up a more "leet" development environment based around tmux and vim.
 
 Jannis Hermanns has a great [blog post](https://jann.is/ipad-pro-for-programming/) on how to set up a tmux dev environment with an iPad, so I'll probably use that as my template. Nick Nisi also has a great [talk](https://youtu.be/5r6yzFEXajQ) on using tmux and vim for work, so I will use that (along with his [dotfiles repo](https://github.com/nicknisi/dotfiles)) as a jumping off point.
@@ -8,6 +14,6 @@ Professionally and historically, I have been a C# on Windows developer. Visual S
 
 The starting place for all this will be dockerizing my remote development environment (including dotfiles), which I will be coding against this public repository:
 
-https://github.com/alanmrvl/shell
+[https://github.com/alanmrvl/shell](https://github.com/alanmrvl/shell)
 
 More to come soon!
